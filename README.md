@@ -14,7 +14,4 @@ This repository contains a simple Playwright test that navigates to [dashboard.s
 ## Setup Instructions
 
 1. **Clone the repository**
-
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+2. **Run the tests** via playwrite
