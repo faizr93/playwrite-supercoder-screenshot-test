@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "playwright": "^1.52.0"
+  },
+  "name": "playwrite-dashboard-supercoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "playwright-core": "^1.52.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizr93/PlayWrite-Dashboard.Supercoder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/faizr93/PlayWrite-Dashboard.Supercoder/issues"
+  },
+  "homepage": "https://github.com/faizr93/PlayWrite-Dashboard.Supercoder#readme"
+}
